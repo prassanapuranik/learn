@@ -1,0 +1,62 @@
+[
+  {
+    "id": "jan-1",
+    "date": "2026-01-02",
+    "topic": "Thought of the Day - Learning Mindset",
+    "presenter": "Anita",
+    "medium": "Teams",
+    "duration": "5 mins",
+    "creditPoints": 1,
+    "notes": "Daily short reflection"
+  },
+  {
+    "id": "jan-2",
+    "date": "2026-01-05",
+    "topic": "GenAI Concepts Digest",
+    "presenter": "Rahul",
+    "medium": "Email",
+    "duration": "5 mins",
+    "creditPoints": 1,
+    "notes": "Every 2 day digest"
+  },
+  {
+    "id": "jan-3",
+    "date": "2026-01-09",
+    "topic": "Cloud GenAI Weekly Newsletter",
+    "presenter": "Meera",
+    "medium": "Email",
+    "duration": "10 mins",
+    "creditPoints": 2,
+    "notes": "Weekly technology newsletter"
+  },
+  {
+    "id": "jan-4",
+    "date": "2026-01-14",
+    "topic": "Knowledge Sharing Session: AI Services",
+    "presenter": "Sandeep",
+    "medium": "Video Recording",
+    "duration": "15 mins",
+    "creditPoints": 2,
+    "notes": "Bi-weekly deep dive"
+  },
+  {
+    "id": "jan-5",
+    "date": "2026-01-21",
+    "topic": "Quarterly Team Achievements",
+    "presenter": "Divya",
+    "medium": "Teams Meeting",
+    "duration": "45 mins",
+    "creditPoints": 4,
+    "notes": "Quarter summary"
+  },
+  {
+    "id": "jan-6",
+    "date": "2026-01-29",
+    "topic": "Hackathon Ideation Kickoff",
+    "presenter": "Prakash",
+    "medium": "Physical",
+    "duration": "2 hr",
+    "creditPoints": 5,
+    "notes": "Half-year innovation sprint"
+  }
+]
