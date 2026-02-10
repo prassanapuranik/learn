@@ -1,0 +1,62 @@
+[
+  {
+    "id": "feb-1",
+    "date": "2026-02-03",
+    "topic": "Positive Thoughts and Health Tips",
+    "presenter": "Anita",
+    "medium": "Teams",
+    "duration": "5 mins",
+    "creditPoints": 1,
+    "notes": "Daily inspiration"
+  },
+  {
+    "id": "feb-2",
+    "date": "2026-02-06",
+    "topic": "Org Domain Updates",
+    "presenter": "Rahul",
+    "medium": "Email",
+    "duration": "10 mins",
+    "creditPoints": 1,
+    "notes": "Weekly updates"
+  },
+  {
+    "id": "feb-3",
+    "date": "2026-02-11",
+    "topic": "Generic Session: Product Updates",
+    "presenter": "Meera",
+    "medium": "Teams Meeting",
+    "duration": "20 mins",
+    "creditPoints": 2,
+    "notes": "Monthly all hands"
+  },
+  {
+    "id": "feb-4",
+    "date": "2026-02-16",
+    "topic": "Demo Working POC",
+    "presenter": "Sandeep",
+    "medium": "Physical",
+    "duration": "2 hr",
+    "creditPoints": 4,
+    "notes": "Innovation demo"
+  },
+  {
+    "id": "feb-5",
+    "date": "2026-02-20",
+    "topic": "Expo Preparation Session",
+    "presenter": "Divya",
+    "medium": "Physical",
+    "duration": "4 hr",
+    "creditPoints": 5,
+    "notes": "Yearly expo prep"
+  },
+  {
+    "id": "feb-6",
+    "date": "2026-02-25",
+    "topic": "AI Platform Case Study",
+    "presenter": "Prakash",
+    "medium": "Video Recording",
+    "duration": "15 mins",
+    "creditPoints": 3,
+    "notes": "Bi-weekly case study"
+  }
+]
